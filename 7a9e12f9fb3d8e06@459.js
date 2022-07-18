@@ -1,7 +1,5 @@
 function _1(md){return(
-md`# Example Components
-
-This notebook contains shared utilities for [D3 charts](/collection/@d3/charts).`
+md`# TESTING ....`
 )}
 
 function _name(Inputs){return(
